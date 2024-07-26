@@ -1,3 +1,3 @@
---platform=linux/arm/v7 nodered/node-red:latest-22
+--platform=linux/arm/v7 xhofe/alist:main-ffmpeg
 
 
