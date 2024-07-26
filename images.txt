@@ -1,1 +1,1 @@
-jeessy/ddns-go
+linux_armv7 jeessy/ddns-go_6.6.5
