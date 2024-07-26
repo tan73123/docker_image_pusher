@@ -1,1 +1,2 @@
---platform=linux_armv7 ddns-go_6.6.5
+--platform=ddns-go_6.6.5_linux_armv7
+
