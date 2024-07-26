@@ -1,3 +1,4 @@
---platform=linux/arm/v7 xhofe/alist:main-ffmpeg
+--platform=linux/arm/v7 gdy666/lucky:latest
+
 
 
