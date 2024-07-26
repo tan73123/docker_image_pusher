@@ -1,2 +1,2 @@
---platform=linux/armv7 jeessy/ddns-go:6.6.5
+--platform=linux/armv7 jeessy/ddns-go
 
