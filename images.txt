@@ -1,2 +1,3 @@
---platform=linux/arm/v7 homeassistant/home-assistant:dev
+--platform=linux/arm/v7 nodered/node-red:latest-22
+
 
