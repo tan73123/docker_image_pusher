@@ -1,4 +1,3 @@
 --platform=linux/arm/v7 gdy666/lucky:latest
-
-
+calciumion/new-api:latest
 
