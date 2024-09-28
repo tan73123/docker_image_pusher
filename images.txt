@@ -1,4 +1,3 @@
---platform=linux/arm64 homeassistant/home-assistant:stable
-
+--platform=linux/arm64 hlohaus789/g4f:latest
 
 
