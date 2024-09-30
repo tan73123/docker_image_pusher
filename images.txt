@@ -1,3 +1,6 @@
---platform=linux/arm64 hlohaus789/g4f:latest
-
-
+--platform=linux/arm64 pgvector/pgvector:0.7.4-pg15
+--platform=linux/arm64/v8 mongo:5.0.18
+ghcr.io/labring/fastgpt-sandbox:v4.8.11-alpha2@sha256:f969b88cb3e15ac7b5117ccee7c32267c1b6534eb94079c4df23b5240ac5d789
+ghcr.io/labring/fastgpt:v4.8.11-alpha2@sha256:d6550c87d07a66f8ef8407468fbd9af53712c748cb364ceb813fbe61a6cebde0
+--platform=linux/arm64 mysql:8.0.36
+--platform=linux/arm64 calciumion/new-api:latest
