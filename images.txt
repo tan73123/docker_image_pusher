@@ -1,2 +1,2 @@
 
---platform=linux/arm64 mongo:latest
+--platform=linux/arm64 mongo:6.0-jammy
