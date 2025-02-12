@@ -1,2 +1,1 @@
---platform=linux/arm64 xhofe/alist:latest
---platform=linux/arm64 gdy666/lucky:latest
+--platform=linux/arm64 nascab:3.5.3-arm64
