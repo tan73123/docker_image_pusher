@@ -1,1 +1,1 @@
---platform=linux/arm64 nascab:3.5.3-arm64
+--platform=linux/arm64 ypptec/nascab:3.5.3-arm64
