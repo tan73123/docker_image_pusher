@@ -1,1 +1,1 @@
---platform=linux/arm64 ypptec/nascab:3.5.3-arm64
+--platform=linux/arm64 open-webui/open-webui:main
