@@ -1,1 +1,1 @@
---platform=linux/arm64 open-webui/open-webui:main
+--platform=linux/arm64 dyrnq/open-webui:main
