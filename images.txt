@@ -1,1 +1,1 @@
---platform=linux/arm64 ghcr.io/open-webui/open-webui:main
+--platform=linux/arm64 homeassistant/home-assistant:2025.9.0b3
