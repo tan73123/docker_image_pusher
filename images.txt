@@ -1,1 +1,3 @@
---platform=linux/arm64 homeassistant/home-assistant:2025.9.0b3
+--platform=linux/arm64 perfectyang/moontv:latest
+--platform=linux/amd64 jeffxinzhe/moontv:202508252039
+--platform=linux/arm64 jeffxinzhe/moontv:202508252039
