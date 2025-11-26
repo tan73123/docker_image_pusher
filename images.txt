@@ -1,3 +1,1 @@
---platform=linux/arm64 perfectyang/moontv:latest
---platform=linux/amd64 jeffxinzhe/moontv:202508252039
---platform=linux/arm64 jeffxinzhe/moontv:202508252039
+--platform=linux/arm64 hslr/sun-panel:latest
