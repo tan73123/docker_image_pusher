@@ -1,1 +1,1 @@
---platform=linux/arm64 hslr/sun-panel:latest
+--platform=linux/arm64 katelya77/katelyatv:latest
