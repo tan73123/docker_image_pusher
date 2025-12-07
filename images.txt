@@ -1,1 +1,1 @@
---platform=linux/arm64 katelya77/katelyatv:latest
+--platform=linux/arm64 ghcr.io/katelya77/katelyatv:latest 
