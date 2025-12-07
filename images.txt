@@ -1,1 +1,1 @@
---platform=linux/arm64 guovern/iptv-api:latest
+--platform=linux/arm64 apache/kvrocks:latest
