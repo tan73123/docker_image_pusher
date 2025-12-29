@@ -1,1 +1,1 @@
---platform=linux/arm64 apache/kvrocks:latest
+--platform=linux/amd64 ghcr.io/remsky/kokoro-fastapi-cpu:latest
