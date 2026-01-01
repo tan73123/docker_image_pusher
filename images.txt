@@ -1,2 +1,2 @@
---platform=linux_arm_v7  homeassistant/home-assistant:2025.11.3
+--platform=linux/arm/v7  homeassistant/home-assistant:2025.11.3
 
