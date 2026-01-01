@@ -1,2 +1,2 @@
---platform=linux/arm/v7  homeassistant/home-assistant:2025.11.3
+--platform=linux/arm/v7  ghcr.io/katelya77/katelyatv:main-fc78bb1@sha256:d5b78b05248dc437f42655586fe859f5f8eaef808184dd9dcc7055a14339a223
 
