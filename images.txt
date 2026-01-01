@@ -1,2 +1,3 @@
---platform=linux/arm/v7  deluan/navidrome:pr-4833
+--platform=linux/arm/v7  svenstaro/miniserve:alpine
+
 
