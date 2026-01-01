@@ -1,1 +1,1 @@
---platform=linux/amd64 ghcr.io/remsky/kokoro-fastapi-cpu:latest
+--platform=linux_arm_v7 home-assistant:dev1
