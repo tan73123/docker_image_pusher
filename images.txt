@@ -1,3 +1,4 @@
---platform=linux/arm/v7  redis:latest
+--platform=linux/arm64  shenjingnan/xiaozhi-client:latest
+
 
 
