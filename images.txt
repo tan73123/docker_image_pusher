@@ -1,4 +1,4 @@
---platform=linux/arm64  shenjingnan/xiaozhi-client:latest
+--platform=linux/arm/v7 arm32v7/node:18-alpine
 
 
 
