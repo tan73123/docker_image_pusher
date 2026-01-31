@@ -1,4 +1,7 @@
---platform=linux/arm/v7 arm32v7/node:18-alpine
+--platform=linux/amd64 nginx:alpine
+--platform=linux/amd64 phaefelfinger/udpxy:latest
+--platform=linux/amd64 alpine:latest
+
 
 
 
