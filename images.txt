@@ -1,6 +1,5 @@
---platform=linux/amd64 nginx:alpine
---platform=linux/amd64 phaefelfinger/udpxy:latest
---platform=linux/amd64 alpine:latest
+--platform=linux/arm64 1panel/openclaw:2026.3.8
+
 
 
 
